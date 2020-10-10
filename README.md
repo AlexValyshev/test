@@ -14,4 +14,4 @@
 2. изменить и добавить контент.
 
 ## **Ссылка на проект в Интернете**
-   https://alexvalyshev.github.io/test/index.html
+   https://alexvalyshev.github.io/test/
