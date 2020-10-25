@@ -23,17 +23,19 @@
 
 .auto__name {
     width: 400px;
+    padding: 10px;
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
     text-align: center;
     text-decoration: none;
     color: #000000;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .auto__name:hover {
     color: #2f80ed;
+    outline: 1px solid green;
 }
 
 .auto__start {
